@@ -7,3 +7,5 @@ A = np.array([[1, 2, 3],
 
 print(A[0, 1])
 
+A[0, 1] = 10
+print
