@@ -10,4 +10,4 @@ print(A[0, 1])
 A[0, 0]= 73
 print(A)
 A[0, 1] = 10
-print
+print(A)
